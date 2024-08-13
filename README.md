@@ -26,7 +26,7 @@ The **Bank Simulation GUI** is a Python application using Tkinter that simulates
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/Campeon254/Bank-Simulation](https://github.com/Campeon254/Bank-Simulation)
+   git clone https://github.com/Campeon254/Bank-Simulation
    ```
 
 2. **Navigate to the Project Directory:**
